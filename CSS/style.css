@@ -260,7 +260,7 @@ p {
     border-top: 1px solid #eaebec;
     margin: 1.313rem 0;
 }
-.social .icons > li, a {
+.social .icons > li, .social .icons > a {
     border-radius: 1.25rem;
     width: 2.5rem;
     height: 2.5rem;
